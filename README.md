@@ -22,6 +22,11 @@ Analyse Diwali Sales using Python Libraries.
 ![Product Category3](https://github.com/ritikaga/Diwali-Sales-Analysis/assets/66274316/48e7984f-559b-4ad4-9283-b0d972ee45d1)
 ![total amount from top 10 states](https://github.com/ritikaga/Diwali-Sales-Analysis/assets/66274316/ae2c9e11-1ff1-4246-b9fd-001e3709a007)
 
+##SALES INSIGHT
+* Most of the buyers are females and even the purchasing power of females is greater than men.
+* Most of the orders & total sales/amount are from Uttar Pradesh, Maharashtra, and Karnataka respectively.
+* Most of the buyers are married (women) and they have high purchasing power.
+* Most of the sold products are from Food, Clothing and Electronics category.
 
 
 ## CONCLUSION 
