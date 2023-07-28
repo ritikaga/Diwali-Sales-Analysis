@@ -24,15 +24,15 @@
 ![total amount from top 10 states](https://github.com/ritikaga/Diwali-Sales-Analysis/assets/66274316/ae2c9e11-1ff1-4246-b9fd-001e3709a007)
 
 ## SALES INSIGHT
-* Most of the buyers are females and even the purchasing power of females is greater than men.
-* Most of the orders & total sales/amount are from Uttar Pradesh, Maharashtra, and Karnataka respectively.
-* Most of the buyers are married (women) and they have high purchasing power.
-* Most of the sold products are from Food, Clothing and Electronics category.
+1. Females are the majority of buyers.
+2. Women have a higher purchasing power compared to men.
+3. Most orders and total sales/amount are from Uttar Pradesh, Maharashtra, and Karnataka.
+4. Married women tend to purchase items from the Food, Clothing, and Electronics categories frequently.
+5. The Food, Clothing, and Electronics categories are the most sold products.
 
 
 ## CONCLUSION 
-Married women of age group 26–35 years from Uttar Pradesh, Maharastra, and Karnataka working in IT, Healthcare, and Aviation are more likely to buy products from Food, Clothing, and Electronics categories.
-
+Women who are married and aged between 26 to 35 residing in Uttar Pradesh, Maharashtra, and Karnataka, and working in the IT, Healthcare, and Aviation industries, tend to purchase items from the Food, Clothing, and Electronics categories more frequently.
 
 
 
