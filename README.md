@@ -1,7 +1,7 @@
 # DIWALI_SALES_ANALYSIS
 ### Analyse Diwali Sales using Python Libraries.
 
-<img width="1500" src="https://github.com/ritikaga/Diwali-Sales-Analysis/assets/66274316/a8ec3b37-4711-470e-a9d1-0fbe44ae3747">
+<img width="1400" src="https://github.com/ritikaga/Diwali-Sales-Analysis/assets/66274316/a8ec3b37-4711-470e-a9d1-0fbe44ae3747">
 
 
 ## OBJECTIVES 
